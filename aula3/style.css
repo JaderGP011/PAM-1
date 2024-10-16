@@ -25,7 +25,7 @@ body {
     text-shadow: 2px 2px 8px rgba(0, 0, 0, 0.3);
   }
   
-  .subtitle {
+  .subtitle, #formula {
     font-size: 1.2em;
     margin-bottom: 20px;
     color: #bbe1fa;
@@ -65,6 +65,10 @@ body {
   #imageDiv {
     margin-top: 20px;
     background-color: #fff;
+  }
+  
+  .formulaDiv {
+    background-color: transparent;
   }
   
   #img {
